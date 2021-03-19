@@ -50,7 +50,7 @@ I've built my Neovim config from scratch with the help of many resources and peo
 
 ## How To Use
 
-There are no install scripts for the config as of now, so I'll reference the necessary pages and steps. Do go through the references on your own caus e learning Vim on your own is such a great experience. Live Long and Prosper!
+There are no install scripts for the config as of now, so I'll reference the necessary pages and steps. Do go through the references on your own cause learning Vim on your own is such a great experience. Live Long and Prosper!
 
 ### **Installation**
 - The following steps are for Ubuntu and similar OS, Please use the necessary alternatives if your OS is different :)
