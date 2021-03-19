@@ -11,8 +11,8 @@
 - [Description](#description)
 - [Best Editor Ever](#Why-is-nvim---the-best-editor-ever)
 - [How To Use](#how-to-use)
-- [Installation](#Installation-:)
-- [References](#references-:)
+- [Installation](#Installation)
+- [References](#references)
 - [License](#license)
 - [Author Info](#author-info)
 
@@ -52,7 +52,7 @@ I've built my Neovim config from scratch with the help of many resources and peo
 
 There are no install scripts for the config as of now, so I'll reference the necessary pages and steps. Do go through the references on your own caus e learning Vim on your own is such a great experience. Live Long and Prosper!
 
-### **Installation :**
+### **Installation**
 - The following steps are for Ubuntu and similar OS, Please use the necessary alternatives if your OS is different :)
 
 ```bash
@@ -76,7 +76,7 @@ There are no install scripts for the config as of now, so I'll reference the nec
 ---
 [Back To The Top](#NVIM)
 
-### **References:**
+### **References**
 
 - [Why is learning Vim so useful](https://youtu.be/6GOqCU2VA0g)
 
