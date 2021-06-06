@@ -2,7 +2,7 @@
 
 call plug#begin('~/.config/nvim/plugged')
 
-Plug 'Raimondi/delimitMate'
+"Plug 'Raimondi/delimitMate'
 Plug 'rafi/awesome-vim-colorschemes'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
@@ -17,12 +17,20 @@ Plug 'mhinz/vim-signify'
 Plug 'tpope/vim-rhubarb'
 Plug 'junegunn/gv.vim'
 Plug 'tpope/vim-commentary'
-Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
+Plug 'nvim-treesitter/nvim-treesitter', {'do':'TSUpdate'}
 Plug 'neovim/nvim-lspconfig'
 Plug 'nvim-lua/popup.nvim'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
 Plug 'nvim-telescope/telescope-fzy-native.nvim'
+Plug 'nvim-lua/completion-nvim'
+Plug 'nvim-lua/lsp_extensions.nvim'
+Plug 'kyazdani42/nvim-web-devicons' " for file icons
+Plug 'kyazdani42/nvim-tree.lua'
+Plug 'thosakwe/vim-flutter'
+Plug 'windwp/nvim-autopairs'
+"Plug 'lukas-reineke/indent-blankline.nvim', {'branch': 'lua'}
+Plug 'mfussenegger/nvim-dap'
 
 "Plug 'prettier/vim-prettier', { 'do': 'npm install' }
 "Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}

@@ -7,7 +7,7 @@ set noerrorbells
 set nowrap
 set scrolloff=8
 set updatetime=50
-set tabstop =4
+set tabstop=4
 set expandtab
 set nu rnu
 set clipboard=unnamedplus
