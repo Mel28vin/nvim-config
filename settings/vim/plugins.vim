@@ -26,7 +26,7 @@ Plug 'nvim-telescope/telescope-fzy-native.nvim'
 Plug 'nvim-lua/completion-nvim'
 Plug 'nvim-lua/lsp_extensions.nvim'
 Plug 'kyazdani42/nvim-web-devicons' " for file icons
-Plug 'kyazdani42/nvim-tree.lua'
+"Plug 'kyazdani42/nvim-tree.lua'
 Plug 'thosakwe/vim-flutter'
 Plug 'windwp/nvim-autopairs'
 "Plug 'lukas-reineke/indent-blankline.nvim', {'branch': 'lua'}

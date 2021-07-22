@@ -29,7 +29,8 @@ source $HOME/.config/nvim/settings/vim/airline.vim
 source $HOME/.config/nvim/settings/vim/fzfRg.vim
 source $HOME/.config/nvim/settings/vim/telescopeConfig.vim
 source $HOME/.config/nvim/settings/vim/lspconfig.vim
-source $HOME/.config/nvim/settings/vim/nvim_tree.vim
+source $HOME/.config/nvim/settings/vim/netrw.vim
+"source $HOME/.config/nvim/settings/vim/nvim_tree.vim
 
 "Weird_Commands_to_be_fast
 
