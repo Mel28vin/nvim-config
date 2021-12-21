@@ -8,5 +8,6 @@ nvim_lsp.pyright.setup{}
 nvim_lsp.tsserver.setup{}
 nvim_lsp.clangd.setup{}
 nvim_lsp.dartls.setup{{on_attach=on_attach,}}
-
 nvim_lsp.rust_analyzer.setup({on_attach=on_attach,})
+-- nvim_lsp.html.setup{}
+-- nvim_lsp.css.setup{}

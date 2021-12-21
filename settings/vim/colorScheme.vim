@@ -14,7 +14,7 @@ endif
 
 colorscheme onedark
 highlight Comment cterm=italic gui=italic
-highlight Normal guibg=none
+" highlight Normal guibg=none
 "colorscheme jellybeans
 "let g:jellybeans_use_term_italics = 1
 

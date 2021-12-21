@@ -23,16 +23,22 @@ Plug 'nvim-lua/popup.nvim'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
 Plug 'nvim-telescope/telescope-fzy-native.nvim'
-Plug 'nvim-lua/completion-nvim'
 Plug 'nvim-lua/lsp_extensions.nvim'
 Plug 'kyazdani42/nvim-web-devicons' " for file icons
-"Plug 'kyazdani42/nvim-tree.lua'
-Plug 'thosakwe/vim-flutter'
 Plug 'windwp/nvim-autopairs'
-"Plug 'lukas-reineke/indent-blankline.nvim', {'branch': 'lua'}
 Plug 'mfussenegger/nvim-dap'
-
-"Plug 'prettier/vim-prettier', { 'do': 'npm install' }
+Plug 'tpope/vim-obsession'
+Plug 'prettier/vim-prettier'
+Plug 'hrsh7th/nvim-compe'
+Plug 'nvim-lua/completion-nvim'
+Plug 'williamboman/nvim-lsp-installer'
+Plug 'hrsh7th/vim-vsnip'
+Plug 'hrsh7th/vim-vsnip-integ'
+" Plug 'thosakwe/vim-flutter'
+"Plug 'kyazdani42/nvim-tree.lua'
+"Plug 'lukas-reineke/indent-blankline.nvim', {'branch': 'lua'}
+" Plug 'github/copilot.vim'
+", { 'do': 'npm install' }
 "Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
 "Plug 'bfrg/vim-cpp-modern'
 "Plug 'HerringtonDarkholme/yats.vim'
